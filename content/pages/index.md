@@ -7,7 +7,7 @@ sections:
       text: Can We Still Trust Voice Verification?
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here\
+    subtitle: Securing Identity in the Age of AI Voice Cloning
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
