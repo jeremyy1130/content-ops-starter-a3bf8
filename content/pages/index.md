@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: This Is A Big Headline
-      color: text-dark
+      color: text-light
     subtitle: Securing Identity in the Age of AI Voice Cloning
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
