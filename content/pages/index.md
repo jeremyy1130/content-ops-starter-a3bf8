@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Can We Still Trust Voice Verification
       color: text-dark
     subtitle: Securing Identity in the Age of AI Voice Cloning
     text: >
