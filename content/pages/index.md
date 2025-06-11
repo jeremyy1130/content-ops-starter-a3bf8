@@ -8,10 +8,14 @@ sections:
       text: Can We Still Trust Voice Verification?
       color: text-dark
     subtitle: Securing Identity in the Age of AI Voice Cloning
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      In recent years, voice verification has become a popular and convenient
+      form of biometric authentication. It has been adopted by banks, customer
+      service systems, and smart devices to verify users through speech. A
+      simple phrase can grant access to sensitive services. The appeal is clear:
+      it's fast, user-friendly, and doesn't require physical contact or
+      remembering passwords.
+
     actions:
       - label: Get started
         altText: ''
